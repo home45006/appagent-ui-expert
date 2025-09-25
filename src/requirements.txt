@@ -1,0 +1,13 @@
+Flask==2.3.3
+Werkzeug==2.3.7
+Pillow==10.0.1
+
+# OCR引擎 (可选)
+# pytesseract==0.3.10
+# easyocr==1.7.0
+# paddlepaddle==2.5.1
+# paddleocr==2.7.3
+
+# 开发依赖 (可选)
+# flask-debugtoolbar==0.13.1
+# python-dotenv==1.0.0
